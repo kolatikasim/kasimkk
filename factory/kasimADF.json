@@ -1,0 +1,9 @@
+{
+	"name": "kasimADF",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "afeaa66e-10d0-4d7a-b900-e2e963fb53d8",
+		"tenantId": "0f187933-f480-4b71-adf4-7e8ba49d5493"
+	}
+}
